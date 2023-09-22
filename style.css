@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+background-image: url("woosh.gif");
+background-repeat: repeat;
+background-position:center;
+background-attachment:scroll;
+background-size: 110%;
+margin:50px}
+
+a:link{color:#b07373;}
+a:visited{color:#8c6554;}
+a:hover{color:#b07373;}
+a:active{color:#8c6554;}
+
+
+
+.box {
+    display: flex; 
+}
+#recbox {
+  border-radius: 25px;
+  background: url(bg2.png);
+  background-repeat: repeat;
+  background-size: 150%;
+  position: static;
+  padding: 20px;
+  width: 90px;
+  height: 50px;
+  text-align:center;
+  margin:auto;
+}
+
+
